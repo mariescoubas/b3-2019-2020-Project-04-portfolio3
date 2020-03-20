@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Playfair+Display&display=swap');
+
+
+h1{
+  font-family: 'Kaushan Script', cursive;
+text-align: center;
+}
+h2{
+
+}
+
+p{
+  font-family: 'Playfair Display', serif;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 0.65em;
+}
+
+
+figcaption {
+    font-size: 0.75em;
+    font-style: italic;
+}
